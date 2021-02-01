@@ -11,6 +11,9 @@ this is best project created in PHP only this is Hospital mis you can download
 ![Presentation1](https://user-images.githubusercontent.com/50979169/106516155-46597e00-64f4-11eb-9b04-ef26ffb62f85.jpg)
 
 
+![ERD](https://user-images.githubusercontent.com/50979169/106520505-8459a080-64fa-11eb-843f-897f7e777c0f.png)
+
+
 ![Screenshot (187)](https://user-images.githubusercontent.com/50979169/106517470-2b880900-64f6-11eb-82a7-fc2c53da76bb.png)
 
 
